@@ -1,0 +1,4 @@
+# Ignore this file
+*
+# This directory will be populated when CDA checker tool is used to test CDA XML instances.
+!.gitignore
